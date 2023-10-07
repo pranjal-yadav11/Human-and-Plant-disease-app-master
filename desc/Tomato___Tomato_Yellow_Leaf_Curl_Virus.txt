@@ -1,0 +1,11 @@
+﻿Overview: Tomato yellow leaf curl virus (TYLCV) infection induces severe symptoms on tomato plants and causes serious yield losses worldwide. TYLCV is persistently transmitted by the sweetpotato whitefly. 
+
+
+Symptoms: 
+* TYLCV causes severe stunting of young leaves and shoots, resulting in bushy growth of infected seedlings.
+* Affected plants exhibit upward and inward rolling of the leaf margins, interveinal yellowing of leaflets and marked stunting.
+* The virus reduces fruit set considerably, especially when infection takes place before the flowering stage.
+Prevention: 
+* Use insecticides and resistant crop varieties to control the spread of TYLCV.
+* Methods to control the spread of TYLCV include planting resistant/tolerant lines, crop rotation, and breeding for resistance of TYLCV.
+* One of the most promising methods to control TYLCV is the production of transgenic tomato plants resistant to TYLCV.

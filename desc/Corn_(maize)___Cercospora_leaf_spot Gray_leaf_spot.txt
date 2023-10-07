@@ -1,0 +1,9 @@
+﻿Overview:  Gray leaf spot (GLS) is a common fungal disease in the United States caused by the pathogen Cercospora zeae-maydis in corn. Disease development is favored by warm temperatures, 80°F or 27 °C; and high humidity, relative humidity of 90% or higher for 12 hours or more. Conducive weather conditions encourage the rapid spread of disease near the end of summer and early fall, when corn plants allocate more resources to grainfill.
+Symptoms: 
+* Gray leaf spot lesions begin as small necrotic pinpoints with chlorotic halos, these are more visible when leaves are backlit.
+* Coloration of initial lesions can range from tan to brown before sporulation begins.
+* As infection progresses, lesions begin to take on a more distinct shape.
+Prevention:
+* Planting hybrids with a high level of genetic resistance can help reduce the risk of yield loss due to gray leaf spot infection.
+* During the growing season, foliar fungicides can be used to manage gray leaf spot outbreaks.
+* Crop rotation away from corn can reduce disease pressure, but multiple years may be necessary in no-till scenarios.
